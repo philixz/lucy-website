@@ -30,3 +30,6 @@
 
 只改下载地址：编辑 download-config.js 中 url，填写 HTTPS 网盘公开分享链接；extractionCode 为可选公开提取码。
 不要提交安装包、API Key、登录凭据、用户数据。网站无需打包或构建，推送 main 后 Pages 自动部署，网址不变。
+
+## 部署手册
+完整首次上线、日常更新、排错和回滚流程见 [GitHub Pages 部署与更新手册](docs/GitHub-Pages部署与更新手册.md)。
